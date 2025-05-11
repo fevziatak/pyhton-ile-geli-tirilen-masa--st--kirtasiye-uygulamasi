@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="iconlar">
+    <file>Custom-Icon-Design-Flatastic-4-Shopping-cart-remove.512.png</file>
+    <file>Custom-Icon-Design-Flatastic-4-Shopping-cart-add.512.png</file>
+    <file>boyaKalemi.png</file>
+    <file>kalemTiras.png</file>
+    <file>defter.png</file>
+    <file>kalem.png</file>
+    <file>silgi.jpg</file>
+    <file>Graphicloads-100-Flat-Zoom-search-2.256.png</file>
+    <file>Graphicloads-100-Flat-Currency.256.png</file>
+    <file>Graphicloads-100-Flat-Settings-3.256.png</file>
+    <file>gear.png</file>
+    <file>Alecive-Flatwoken-Apps-Solaar.512.png</file>
+    <file>signal.png</file>
+    <file>user.png</file>
+    <file>server.png</file>
+  </qresource>
+</RCC>
